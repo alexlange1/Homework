@@ -5,4 +5,4 @@
  Exercise 2: Object-Oriented Programming
  Exercise 3: 
 
- # note: this readme file will update with further progress
+Note: this readme file will update with further progress
